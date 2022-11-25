@@ -1,3 +1,8 @@
+# A ticking clock in React
+
+Because of so many vagaries in the web audio API implementation, this will not be consistent in time under a variety of circumstances. Still pretty good.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
